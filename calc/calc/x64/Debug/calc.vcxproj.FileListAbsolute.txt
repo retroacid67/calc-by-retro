@@ -1,0 +1,2 @@
+C:\Users\retro\OneDrive\Desktop\c++\calc\x64\Debug\calc.exe.lastcodeanalysissucceeded
+C:\Users\retro\OneDrive\Desktop\c++\calc\calc\x64\Debug\NativeCodeAnalysis.read.1.tlog
